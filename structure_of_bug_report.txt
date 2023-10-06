@@ -1,0 +1,13 @@
+
+    Issue ID
+    Heading
+    Summary
+    Screenshots/ Images/ Video recordings
+    Expected results vs. actual results
+    Step-by-step procedure to find the bug
+    Environment
+    Console logs
+    URL of the Source
+    Priority and severity
+    Additional info
+
